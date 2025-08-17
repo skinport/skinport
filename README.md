@@ -3,7 +3,7 @@
 Welcome to the official [Skinport](https://skinport.com) GitHub! 🎮  
 Skinport is the most trusted marketplace for CS2, CS:GO, Dota 2, and Rust skins – with millions of trades completed securely every year. On GitHub, we share projects, tools, and integrations that make skin trading easier, safer, and more transparent.  
 
-Whether you are a developer looking to explore our [API](https://skinport.com/docs), a trader interested in automation, or simply curious about the technology behind the marketplace, you’ll find resources and open-source contributions here.  
+Whether you are a developer looking to explore our [API](https://docs.skinport.com), a trader interested in automation, or simply curious about the technology behind the marketplace, you’ll find resources and open-source contributions here.  
 
 ## Why Skinport?  
 - ✅ **Officially registered & regulated marketplace**  
